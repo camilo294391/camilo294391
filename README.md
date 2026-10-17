@@ -6,7 +6,7 @@ Estudiante de Tecnología en Desarrollo de Software en la Universidad del Valle 
 
 ### Acerca de mí 🚀
 
-- 🔭 **Actualmente trabajando en:** *Basuras al día*, una aplicación cívica para la gestión y seguimiento de rutas de recolección de residuos sólidos en Buenaventura, y en *requiem.py*, un proyecto interactivo en Python.
+- 🔭 **Actualmente trabajando en:** *requiem.py*, un proyecto interactivo en Python, y en el desarrollo de aplicaciones web.
 - 🌱 **Aprendiendo más sobre:** Estrategias de contenido web (Content Strategy), desarrollo frontend, y optimización de modelos Entidad-Relación y diccionarios de datos.
 - 💬 **Pregúntame sobre:** Diseño e implementación de bases de datos, documentación técnica de software, maquetación UI o sobre mis partidas de karate 🥋.
 - ⚡ **Dato curioso:** Me gusta analizar la mecánica y resolución de acertijos en *Resident Evil* y participar activamente en comunidades de desarrollo como Python Cali.
